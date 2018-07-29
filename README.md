@@ -6,6 +6,6 @@ https://play.google.com/store/apps/details?id=com.weaponoid.sr
 
 Screenshots
 
-![alt text](https://lh3.googleusercontent.com/1eL9iMNpYrX7P-_orrCPyTyjaSQUxVLw4Rdony-Yl76F1eDo4PyzYf7YCPvchKvWuRk=w720-h310-rw)
+![alt text](https://lh3.googleusercontent.com/1eL9iMNpYrX7P-_orrCPyTyjaSQUxVLw4Rdony-Yl76F1eDo4PyzYf7YCPvchKvWuRk=w1440-h826-rw)
 
 
